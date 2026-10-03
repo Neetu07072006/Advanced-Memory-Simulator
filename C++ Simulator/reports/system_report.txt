@@ -1,0 +1,16 @@
+ADVANCED MEMORY SIMULATOR SYSTEM REPORT
+=====================================
+Processes: 0
+Used Memory KB: 0
+Free Memory KB: 1000
+Memory Utilization %: 0.00
+Total Accesses: 0
+Page Hits: 0
+Page Faults: 0
+Overall Hit Rate %: 0.00
+Overall Fault Rate %: 0.00
+TLB Hits: 0
+TLB Misses: 0
+Swap Ins: 0
+Swap Outs: 0
+Protection Violations: 0

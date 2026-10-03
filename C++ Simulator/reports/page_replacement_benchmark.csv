@@ -1,0 +1,4 @@
+Algorithm,Hits,Faults,HitRate,FaultRate
+FIFO,0,0,0.00,0.00
+LRU,0,0,0.00,0.00
+Optimal,0,0,0.00,0.00
