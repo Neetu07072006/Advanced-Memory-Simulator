@@ -1,0 +1,3 @@
+*.exe
+reports/*.txt
+reports/*.csv
